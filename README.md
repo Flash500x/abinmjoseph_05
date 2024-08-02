@@ -8,7 +8,7 @@ I am an Electronics and Communication Engineering undergrad, passionate about Te
 <h2>Interests</h2>
 <p>Always excited to learn about the latest advancements in cybersecurity, astronomy, electronics, and artificial intelligence.</p>
 <li>Initial Interests: Stargazing, Life beyond the Cosmos, Past Civilizations, Mysteries yet to be discovered</li>
-<li>Software: Web apps , iOS app development , Dynamic Web desing and UI/UX</li>
+<li>Software: Web apps , iOS app development , Dynamic Web design and UI/UX</li>
 <li>Electronics: Loves building and tinkering with electronic projects.</li>
 <li>Video Editing: Final Cut Pro , Adobe After Effects.</li>
 
