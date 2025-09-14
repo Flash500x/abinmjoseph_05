@@ -1,38 +1,42 @@
 <h1 align="center">Hi there, I'm Abin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Electronics+%2B+AI+Enthusiast;Front-end+Developer;Embedded+Systems+Explorer;Swift+iOS+Dev+in+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Electronics+%2B+AI+Enthusiast;Python+%26+JavaScript+Developer;Front-end+Explorer;Embedded+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 Passionate about **Electronics, Embedded Systems, AI/ML, and Web Technologies**
+- 🧠 Passionate about **Electronics, Embedded Systems, AI/ML, and Web Development**
 - ⚡ Currently pursuing **B.Tech in Electronics & Communication Engineering**
-- 💻 I love building projects that **combine hardware and software**
-- 🎯 Exploring **Swift for iOS**, **Embedded C**, and **front-end development**
-- 🌍 Dreaming big & building step-by-step — one project at a time.
+- 💻 I enjoy building projects that **combine hardware and software**
+- 🎯 Exploring **Python, JavaScript, front-end frameworks, and embedded systems**
+- 🌍 Focused on learning and building step-by-step toward ambitious projects
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, Swift, C, Python, Embedded C
+- **Languages:** Python, JavaScript, HTML, CSS, C, Embedded C  
+- **Frontend:** Svelte
+- **Backend / Tools:** Node.js, Firebase, MATLAB  
 
 ---
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
+- VSCode  
 - Keil uVision  
 - Figma  
-- Xcode  
-- Trae  
 - Photoshop  
+- Base44.com
+- Sketch
+- Thonny IDE  
 
 ---
 
-### ✨ Thought of the Day
+### ✨ Motto
 
 > "One good project teaches more than a hundred tutorials."
 
@@ -40,8 +44,8 @@
 
 ### 📫 Connect with Me
 
-- 📷 [Instagram](https://www.instagram.com/_a.b.i.n_77/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abin-s-manoj-7b8867291/)
+- 📷 [Instagram](https://www.instagram.com/_a.b.i.n_77/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abin-s-manoj-7b8867291/)  
 
 ---
 
