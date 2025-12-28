@@ -1,44 +1,41 @@
 <h1 align="center">Hi there, I'm Abin 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Electronics+%2B+AI+Enthusiast;Python+%26+JavaScript+Developer;Front-end+Explorer;Embedded+Systems+Enthusiast" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 Passionate about **Electronics, Embedded Systems, AI/ML, and Web Development**
-- ⚡ Currently pursuing **B.Tech in Electronics & Communication Engineering**
-- 💻 I enjoy building projects that **combine hardware and software**
-- 🎯 Exploring **Python, JavaScript, front-end frameworks, and embedded systems**
-- 🌍 Focused on learning and building step-by-step toward ambitious projects
+A highly motivated and aspiring person with strong interests and experience in Web development , Hardware Design, Graphic Design and chip development.
+
+13 proud years as a Loyolite at Loyola School Trivandrum, a prestigious Jesuit institution known for academic excellence, holistic development, and values-based education. Proud to be part of a legacy that fosters intellectual curiosity, creativity, leadership, and character-building, shaping individuals to excel globally. Marooned forever.
+
+Understanding how things work has always fueled my curiosity and passion for learning the art of technology. The design language of computer systems, combined with an interest in how money operates, perfectly aligns with my evolving interests and drives my ambitions for a strong and impactful career.
 
 ---
 
 ### 🛠 Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS, C, Embedded C  
-- **Frontend:** Svelte
-- **Backend / Tools:** Node.js, Firebase, MATLAB  
+- **Frontend:** React, Next JS
+- **Backend / Tools:** Node.js, Python, MATLAB  
 
 ---
 
 ### 🧰 Tools & Platforms
 
-- VSCode  
-- Keil uVision  
-- Figma  
+- Google Antigravity
+- Espressif IDE  
+- Visual Studio Code  
 - Photoshop  
-- Base44.com
+- Figma
 - Sketch
-- Thonny IDE  
+- Thonny IDE
+- WebStorm 
 
 ---
 
 ### ✨ Motto
 
-> "One good project teaches more than a hundred tutorials."
+> "A Look inward A Leap Forward"
 
 ---
 
@@ -51,7 +48,4 @@
 
 ### ⚙ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flash500x&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flash500x&layout=compact&theme=radical" height="160"/>
-</p>
+
