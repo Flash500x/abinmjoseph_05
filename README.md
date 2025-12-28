@@ -1,51 +1,16 @@
-<h1 align="center">Hi there, I'm Abin 👋</h1>
+# 💫 About Me:
+A highly motivated and aspiring person with strong interests and experience in Web development , Hardware Design, Graphic Design and chip development.<br><br>13 proud years as a Loyolite at Loyola School Trivandrum, a prestigious Jesuit institution known for academic excellence, holistic development, and values-based education. Proud to be part of a legacy that fosters intellectual curiosity, creativity, leadership, and character-building, shaping individuals to excel globally. Marooned forever.<br><br>Understanding how things work has always fueled my curiosity and passion for learning the art of technology. The design language of computer systems, combined with an interest in how money operates, perfectly aligns with my evolving interests and drives my ambitions for a strong and impactful career.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_a.b.i.n_77/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abin-s-manoj-7b8867291/) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Flash500x&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Flash500x&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flash500x&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-### 👨‍💻 About Me
-
-A highly motivated and aspiring person with strong interests and experience in Web development , Hardware Design, Graphic Design and chip development.
-
-13 proud years as a Loyolite at Loyola School Trivandrum, a prestigious Jesuit institution known for academic excellence, holistic development, and values-based education. Proud to be part of a legacy that fosters intellectual curiosity, creativity, leadership, and character-building, shaping individuals to excel globally. Marooned forever.
-
-Understanding how things work has always fueled my curiosity and passion for learning the art of technology. The design language of computer systems, combined with an interest in how money operates, perfectly aligns with my evolving interests and drives my ambitions for a strong and impactful career.
-
----
-
-### 🛠 Tech Stack
-
-- **Languages:** Python, JavaScript, HTML, CSS, C, Embedded C  
-- **Frontend:** React, Next JS
-- **Backend / Tools:** Node.js, Python, MATLAB  
-
----
-
-### 🧰 Tools & Platforms
-
-- Google Antigravity
-- Espressif IDE  
-- Visual Studio Code  
-- Photoshop  
-- Figma
-- Sketch
-- Thonny IDE
-- WebStorm 
-
----
-
-### ✨ Motto
-
-> "A Look inward A Leap Forward"
-
----
-
-### 📫 Connect with Me
-
-- 📷 [Instagram](https://www.instagram.com/_a.b.i.n_77/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abin-s-manoj-7b8867291/)  
-
----
-
-### ⚙ GitHub Stats
-
-
+[![](https://visitcount.itsvg.in/api?id=Flash500x&icon=0&color=0)](https://visitcount.itsvg.in)
